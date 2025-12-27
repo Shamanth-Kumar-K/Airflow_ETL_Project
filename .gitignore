@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# IDE
+.idea/
+
+# Airflow logs & runtime
+logs/
+airflow-webserver.pid
+
+# ETL generated data
+sprint_1/data/extracted/
+sprint_1/data/transformed/
+sprint_1/data/final/
