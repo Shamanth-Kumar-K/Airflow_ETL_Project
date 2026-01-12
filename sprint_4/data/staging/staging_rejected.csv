@@ -1,0 +1,1 @@
+OrderID,OrderDate,CustomerID,CustomerName,Email,Age,Phone,ProductID,ProductName,Category,Brand,Quantity,UnitPrice,Discount,Tax,ShippingCost,TotalAmount,PaymentMethod,OrderStatus,City,State,Country,SellerID,age_cleaned,age_numeric,rejection_reason

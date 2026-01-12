@@ -1,0 +1,3 @@
+run_date,metric,raw_value,curated_value,difference,reason
+2026-01-11 19:17:20,order_count,100000,36092,-63908,"Duplicates, age validation, email validation"
+2026-01-11 19:24:08,order_count,100000,36092,-63908,"Duplicates, age validation, email validation"

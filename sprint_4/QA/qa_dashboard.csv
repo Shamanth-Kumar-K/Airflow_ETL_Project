@@ -1,0 +1,2 @@
+run_date,raw_rows,staging_rows,staging_rejected,staging_dq_score,curated_rows,curated_rejected,curated_dq_score,final_status
+2026-01-11 16:22:52.020179,100000,100000,0,100.0,100000,0,100.0,PASS

@@ -1,0 +1,2 @@
+run_date,input_rows,curated_valid,curated_rejected,dq_score,status
+2026-01-11 21:14:51.290904,80257,72341,7916,90.14,FAIL
