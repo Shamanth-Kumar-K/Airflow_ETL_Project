@@ -5,7 +5,6 @@ import csv
 # Central audit log location for Sprint 7
 AUDIT_LOG_PATH = Path("/opt/airflow/data/audit_logger.csv")
 
-
 def log_event(event_type, dag_id, task_id, status, message=""):
     """
     Writes an audit log entry for ETL execution events.
