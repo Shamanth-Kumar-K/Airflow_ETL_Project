@@ -20,7 +20,7 @@ default_args = {
 with DAG(
     dag_id="sprint_4_etl_pipeline",
     default_args=default_args,
-    description="End-to-end ETL with QA for Sprint 4",
+    description="End-to-end etl with QA for Sprint 4",
     start_date=datetime(2026, 1, 1),
     schedule_interval=None,
     catchup=False
