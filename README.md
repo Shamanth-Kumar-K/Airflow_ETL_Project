@@ -23,15 +23,6 @@ containerization, and modular ETL design.
 4. Transformed data is loaded into PostgreSQL
 5. System metrics and health can be monitored using Grafana
 
-## Project Structure
-
-.
-├── dags/                  # Airflow DAG definitions
-├── data/                  # Input datasets
-├── docker-compose.yml     # Docker Compose configuration
-├── requirements.txt       # Python dependencies
-├── .gitignore             # Git ignore rules
-└── README.md              # Project documentation
 
 ## How to Run the Project
 
